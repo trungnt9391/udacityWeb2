@@ -11,8 +11,7 @@ Jinja2==3.1.2
 MarkupSafe==2.1.3    
 pip==20.0.2   
 pipenv==2023.6.12
-pippip==0.0.10   
-pkg-resources==0.0.0    
+pippip==0.0.10
 platformdirs==3.6.0    
 setuptools==67.8.0   
 virtualenv==20.23.1  
