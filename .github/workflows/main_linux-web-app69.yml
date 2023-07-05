@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'linux-web-app69'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_09A92F7F878C4D9CBB897DECEEFF7768 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4635F8C56744D569257989A51FF70CD }}
